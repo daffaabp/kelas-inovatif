@@ -1,0 +1,26 @@
+1. Tujuan Proyek: Membuat sistem login yang aman dan efisien.
+2. Fitur Utama:
+   - Formulir login dengan validasi input.
+   - Autentikasi pengguna menggunakan email dan kata sandi.
+   - Fitur "ingat saya" untuk sesi pengguna.
+   - Pengaturan ulang kata sandi melalui email.
+   - Keamanan: Enkripsi kata sandi dan perlindungan terhadap serangan brute force.
+3. Teknologi yang Digunakan:
+   - Frontend: HTML, CSS, JavaScript
+   - Backend: Node.js dengan Express
+   - Database: MongoDB
+4. Langkah-langkah Implementasi:
+   - Desain antarmuka pengguna untuk formulir login.
+   - Implementasi logika autentikasi di backend.
+   - Integrasi database untuk menyimpan informasi pengguna.
+   - Uji coba sistem untuk memastikan keamanan dan fungsionalitas.
+5. Timeline:
+   - Minggu 1: Desain UI dan pengaturan lingkungan pengembangan.
+   - Minggu 2: Pengembangan backend dan integrasi database.
+   - Minggu 3: Pengujian dan perbaikan bug.
+   - Minggu 4: Peluncuran dan dokumentasi.
+6. Tim Proyek:
+   - Pengembang Frontend: [Nama]
+   - Pengembang Backend: [Nama]
+   - Desainer UI/UX: [Nama]
+   - Manajer Proyek: [Nama]
